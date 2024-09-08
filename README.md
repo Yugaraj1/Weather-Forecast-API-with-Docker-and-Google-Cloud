@@ -19,8 +19,9 @@ This project utilizes the following technologies and tools:
 ## Workflow Diagram
 
 
+![Untitled](https://github.com/user-attachments/assets/699a26eb-f3d9-4069-985d-37e450fbe9db)
 
-![Untitled](https://github.com/user-attachments/assets/2ac2b4fd-3749-4dfc-a8c6-77ac55b027b7)
+
 
 ## GitHub:
 
@@ -65,6 +66,11 @@ This project uses Google Cloud Build for CI/CD automation. Whenever changes are 
 1. Build a Docker image of the Flask weather app.
 2. Push the Docker image to Google Artifact Registry.
 3. Deploy the updated image to Google Cloud Run.
+
+## Working URL
+
+https://brave-almeida-530111818413.us-central1.run.app/
+
 ## Conclusion
 
 This Flask-based weather application, containerized with Docker and deployed on Google Cloud Run, provides a scalable and efficient solution for real-time weather updates. The automated CI/CD pipeline using Google Cloud Build simplifies the process of integrating and deploying code changes.
